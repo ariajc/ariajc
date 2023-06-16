@@ -2,7 +2,7 @@
 
 My name is Aria and I am work in proces data scientist in the field of health and medicine. With a mechanical engineering background, I decided to change the nuts and bolts for the fascinating world of health and I never looked back since. I am currently working as a software dev at MENTICE as part of the ANKYRAS software team, and studing a master in Biomed Eng in Barcelona.
 
-- 🔭 Working on image segmentations for 3DRA and MRA
+- 🔭 Working on image segmentations for TOF - MRA
 - 🌱 Learning JavaScript
 
 <!--
